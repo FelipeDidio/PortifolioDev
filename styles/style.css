@@ -146,9 +146,9 @@ body{
     font-family: var(--fonte-secundaria);
     transition: 0.5s;
 }
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
-    transform: scale(0.9);
+    transform: scale(1.05);
     transition: 0.5s;
     cursor: pointer;
 }
